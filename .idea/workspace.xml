@@ -2,31 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec6ff3a6-4786-4a57-9866-111ff19a9379" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/no-items.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainLayout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/AddTodo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/EditModal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Todo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/AppButton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/AppCard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/AppText.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/AppTextBold.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/Todo/TodoContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/Todo/TodoReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/Todo/TodoState.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/screen/ScreenContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/screen/ScreenState.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/screen/screenReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/types.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screens/MainScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screens/TodoScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/theme.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainLayout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainLayout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/EditModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/EditModal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/Todo/TodoState.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/Todo/TodoState.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/MainScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/MainScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/TodoScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/TodoScreen.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +82,9 @@
       <workItem from="1608738165455" duration="586000" />
       <workItem from="1608797863924" duration="593000" />
       <workItem from="1608992826536" duration="16018000" />
-      <workItem from="1609670856024" duration="5297000" />
+      <workItem from="1609670856024" duration="5540000" />
+      <workItem from="1610188246742" duration="20000" />
+      <workItem from="1610188310086" duration="1331000" />
     </task>
     <servers />
   </component>
