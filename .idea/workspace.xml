@@ -2,12 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec6ff3a6-4786-4a57-9866-111ff19a9379" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/AppLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/http.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MainLayout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainLayout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AddTodo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AddTodo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/EditModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/EditModal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Todo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Todo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ui/AppButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ui/AppButton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ui/AppCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ui/AppCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ui/AppText.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ui/AppText.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ui/AppTextBold.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ui/AppTextBold.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/Todo/TodoContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/Todo/TodoContext.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/Todo/TodoReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/Todo/TodoReducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/context/Todo/TodoState.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/Todo/TodoState.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/screen/ScreenContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/screen/ScreenContext.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/screen/ScreenState.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/screen/ScreenState.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/screen/screenReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/screen/screenReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/types.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/screens/MainScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/MainScreen.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/screens/TodoScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/TodoScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/theme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,12 +55,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/ui" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/components/ui" />
       <recent name="$PROJECT_DIR$/assets/fonts" />
       <recent name="$PROJECT_DIR$/assets" />
@@ -51,7 +78,17 @@
       <recent name="$PROJECT_DIR$/src/components" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.start">
+    <configuration name="lint:fix" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="lint:fix" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -65,6 +102,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="npm.start" />
+        <item itemvalue="npm.lint:fix" />
       </list>
     </recent_temporary>
   </component>
@@ -84,11 +122,15 @@
       <workItem from="1608992826536" duration="16018000" />
       <workItem from="1609670856024" duration="5540000" />
       <workItem from="1610188246742" duration="20000" />
-      <workItem from="1610188310086" duration="1331000" />
+      <workItem from="1610188310086" duration="6716000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
